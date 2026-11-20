@@ -37,7 +37,7 @@ The goal is to build a deep understanding of diffusion mechanisms through deriva
 diffusion-labs/
 ├── README.md
 └── labs/
-    ├── lab_one.ipynb
+    ├── lab_one_DDPM_Fundamentals.ipynb
     └── ...
 ```
 
