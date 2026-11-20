@@ -59,7 +59,7 @@ The notebooks run on Google Colab or locally.
 **Local setup**
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/mahfoudhsam/Diffusion_Labs>
 cd diffusion-labs
 pip install torch numpy matplotlib tqdm jupyter
 jupyter notebook labs/lab_one.ipynb
